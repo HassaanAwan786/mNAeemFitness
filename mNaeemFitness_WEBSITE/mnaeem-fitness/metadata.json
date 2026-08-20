@@ -1,0 +1,6 @@
+{
+  "name": "mNaeem fitness",
+  "description": "An elite 3D-enhanced fitness portal for mNaeem fitness, offering customizable membership plans, dynamic workout logs, macro tracking, direct trainer chats with Gemini AI, and training calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
