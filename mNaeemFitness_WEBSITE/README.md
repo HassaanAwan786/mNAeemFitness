@@ -1,10 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+
+<img width="1569" height="984" alt="image" src="https://github.com/user-attachments/assets/a737f630-6185-4657-bed8-a2304f5ed653" />
 </div>
 
 # mNaeem Fitness - AI-Powered Gym Companion
 
-Your personal AI coach for workouts, nutrition, and fitness transformation.
+Personal AI coach for workouts, nutrition, and fitness transformation.
 
 ## 🚀 Quick Start
 
@@ -44,12 +46,12 @@ Your personal AI coach for workouts, nutrition, and fitness transformation.
 
 ### ✨ Features
 
-- ✅ AI Coach Chat (English responses only!)
-- ✅ Workout Dashboard
-- ✅ Nutrition Calculator
-- ✅ Training Plans
-- ✅ Gym Calendar
-- ✅ Push Notifications
+- AI Coach Chat (English responses only!)
+-  Workout Dashboard
+-  Nutrition Calculator
+-  Training Plans
+-  Gym Calendar
+-  Push Notifications
 
 ### 📝 Using the Chat
 
